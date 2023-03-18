@@ -9,7 +9,16 @@ You can combine it with python Attacking Pendrive tool in my other repository to
 # Before running this file install python liabraries:
 
 pip install pywin32
+
 pip install pyhook
+
+# to run the keyloger_v1.py, type in cmd:
+
+python3 keyloger-v1.py
+
+# FOr a more better and secure Keylogger Script & Hacking tools, Download pyXtools: Python + Hacking from playstore
+
+link: https://play.google.com/store/apps/details?id=com.pythonxtools
 
 # DISCLAIMER:
 
